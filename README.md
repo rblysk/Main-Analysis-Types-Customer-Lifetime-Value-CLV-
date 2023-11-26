@@ -67,7 +67,11 @@ Though we are not sure what will happen in the next 12 weeks.
 
 For this we will simply use previously calculated **Cumulative growth %** and predict all **12 future weeks values**
 
-(ex. for this cohort we can calculate expected revenue for week 1 as 0.19USD x (1 + 23.29%) = 0.24USD, for week 2 as 0.24USD x (1 + 12.26%) = 0.27USD). 
+(ex. for this cohort we can calculate expected revenue:
+
+for week 1 as 0.19USD x (1 + 23.29%) = 0.24USD, 
+
+for week 2 as 0.24USD x (1 + 12.26%) = 0.27USD). 
 
 Using Avg. cumulative growth for each week we can calculate that based on 0.19USD initial value we can expect 0.35USD as revenue on week 12. 
 
